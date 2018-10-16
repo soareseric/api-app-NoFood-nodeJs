@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/EricSoares3/api-app-NoFood-nodeJs/issues"
   },
-  "homepage": "https://github.com/EricSoares3/api-app-NoFood-nodeJs#readme"
+  "homepage": "https://github.com/EricSoares3/api-app-NoFood-nodeJs#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
