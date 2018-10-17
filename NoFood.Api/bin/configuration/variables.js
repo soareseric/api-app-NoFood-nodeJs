@@ -3,6 +3,9 @@
 const variables = {
     Api: {
         port: process.env.port || 3000
+    },
+    Database: {
+        connection: process.env.connection || 'mongodb://admin:nofood123456@ds135003.mlab.com:35003/nofood'
     }
 }
 
